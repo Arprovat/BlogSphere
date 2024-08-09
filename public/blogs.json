@@ -1,0 +1,47 @@
+[
+    {
+      "cover_img": "https://i.ibb.co/0QjycRh/mohammad-rahmani-8q-EB0f-Te9-Vw-unsplash.jpg",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/9v2CFMR/vladimir-yelizarov-I5w-SAQMd-VPk-unsplash.jpg",
+      "post_date": "2024-08-08",
+      "hashtag": ["#WebDevelopment", "#JavaScript", "#Programming"],
+      "title": "Mastering JavaScript in 2024",
+      "Read_time": 5 },
+    {
+      "cover_img": "https://i.ibb.co/8YhDsVS/sam-barren-9nfpj-Kw-SP8-unsplash.jpg",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co/9v2CFMR/vladimir-yelizarov-I5w-SAQMd-VPk-unsplash.jpg",
+      "post_date": "2024-08-07",
+      "hashtag": ["#UIUX", "#Design", "#WebDesign"],
+      "title": "The Ultimate Guide to UI/UX Design",
+      "Read_time": 8 
+    },
+    {
+      "cover_img": "https://i.ibb.co/xXnQLwQ/hai-nguyen-6i-Mme3-Fzn-Ho-unsplash.jpg",
+      "author_name": "Alice Brown",
+      "author_img": "https://i.ibb.co/5F82sXF/evgeniya-litovchenko-j-Ohp-VF-NURA-unsplash.jpg",
+      "post_date": "2024-08-06",
+      "hashtag": ["#Python", "#DataScience", "#AI"],
+      "title": "Exploring Data Science with Python",
+      "Read_time": 7 
+    },
+    {
+      "cover_img": "https://i.ibb.co/8YhDsVS/sam-barren-9nfpj-Kw-SP8-unsplash.jpg",
+      "author_name": "Michael Lee",
+      "author_img": "https://i.ibb.co/9pTdVT7/lance-reis-l-Oha-STCo9ow-unsplash.jpg",
+      "post_date": "2024-08-05",
+      "hashtag": ["#React", "#FrontEnd", "#JavaScript"],
+      "title": "Building Scalable Applications with React",
+      "Read_time": 6 
+    },
+    {
+      "cover_img": "https://i.ibb.co/9v2CFMR/vladimir-yelizarov-I5w-SAQMd-VPk-unsplash.jpg",
+      "author_name": "Emma Wilson",
+      "author_img": "https://i.ibb.co/xX6Zb9p/kamran-ch-pq-IC34i-y-FU-unsplash.jpg",
+      "post_date": "2024-08-04",
+      "hashtag": ["#WebSecurity", "#Cybersecurity", "#Tech"],
+      "title": "Understanding Web Security in 2024",
+      "Read_time": 10 
+    }
+  ]
+  
